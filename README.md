@@ -31,5 +31,9 @@ Hi, it's Nilesh here. I'm a Software Developer passionate about everything relat
 
 ### Connect
 
-[linkedin]: https://www.linkedin.com/in/nilesh-meena-726028128/
+<div>
+  <a href="https://www.linkedin.com/in/nilesh-meena-726028128/" target="_blank" rel="noopener noreferrer">
+    <img align="left" alt="Nilesh Meena | Linkedin Profile" width="24px"  src="https://github.com/Nilesh-Meena/Mark/blob/main/Linkedin.svg" />
+  </a>
+</div>
 
