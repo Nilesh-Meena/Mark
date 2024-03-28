@@ -3,7 +3,7 @@ Hi, it's Nilesh here. I'm a Software Developer passionate about everything relat
 
 🌱I am currently learning AWS Cloud Services
 
-### Tech & Tools Preference
+### Languages & Tools Preference
 <div>
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript 🤩"/>
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" title="Typescript 😎"/>
